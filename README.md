@@ -1,0 +1,2 @@
+# QSlider
+Smooth and simple
